@@ -18,7 +18,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class CallAPI {
+public class
+CallAPI {
 
     private static HttpGet request;
     private final static CloseableHttpClient httpClient = HttpClients.createDefault();
